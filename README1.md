@@ -13,7 +13,9 @@
 * 查詢與管理訂單
 
 ## 三、使用角色
-#### 線上電影票購買系統的操作系統流程圖:
-![image](https://github.com/tonggggggggg/movie/blob/main/%E8%B3%BC%E7%A5%A8%E7%B3%BB%E7%B5%B1.png)
+
+
 #### 線上電影票購買系統的總架構:
+![image](https://github.com/tonggggggggg/movie/blob/main/%E8%B3%BC%E7%A5%A8%E7%B3%BB%E7%B5%B1.png)
+#### 線上電影票購買系統的操作系統流程圖:
 ![image](https://github.com/tonggggggggg/movie/blob/main/%E6%B5%81%E7%A8%8B%E5%9C%96%E6%93%8D%E4%BD%9C.png)
